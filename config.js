@@ -3,7 +3,7 @@ import { version } from './package.json'
 export const TOKEN = 'PAL'
 export const IS_HIVE = true
 export const APP_DOMAIN = 'https://www.palnet.io'
-export const APP_TITLE = 'PALnet'
+export const APP_TITLE = 'BlockTalk'
 export const APP = `palnet/${version}`
 export const IMAGES_CDN = 'https://images.hive.blog/'
 export const IMAGE_UPLOAD_SERVER = 'https://images.hive.blog'
